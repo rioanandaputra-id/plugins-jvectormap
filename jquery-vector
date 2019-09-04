@@ -1,0 +1,11 @@
+<script type="text/javascript">
+
+var result = confirm ("AKU CUMA MAU MAEN KAKAK MIDUN KAKAK BERLIAN, BOLEH YA?");
+if (result == true) {
+  document.write ("MAKASIH KAKAK :)");
+}
+else {
+  document.write ("SOMBONG AMAT");
+}
+
+</script>
